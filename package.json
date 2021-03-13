@@ -1,0 +1,24 @@
+{
+  "name": "exchange_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kzeb/exchange_api.git"
+  },
+  "author": "Karol Żebrowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kzeb/exchange_api/issues"
+  },
+  "homepage": "https://github.com/kzeb/exchange_api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
